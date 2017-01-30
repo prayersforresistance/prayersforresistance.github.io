@@ -63,12 +63,3 @@ header {
 p {
 font-size: 14px;
 }
-
-.span4 {
-  display: block;
-    float: left;
-    min-height: 30px;
-    margin-left: 3%;
-    box-sizing: border-box;
-    width: 30%;
-}
