@@ -1,0 +1,74 @@
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  font-family: "adobe-garamond-pro";
+}
+
+a {
+  -webkit-transition: all 0.35s;
+  -moz-transition: all 0.35s;
+  transition: all 0.35s;
+    color: #eb3812;
+}
+a:hover,
+a:focus {
+  color: #FFDC00;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+}
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+
+section {
+  padding: 70px 0;
+}
+aside {
+  padding: 50px 0;
+}
+.no-padding {
+  padding: 0;
+}
+
+
+header {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  text-align: center;
+}
+
+
+  header .header-content .header-content-inner h1 {
+    padding-top: 3%;
+    font-size: 72px;
+  }
+
+.section-heading {
+  font-size: 72px;
+}
+
+p {
+font-size: 14px;
+}
+
+.span4 {
+  display: block;
+    float: left;
+    min-height: 30px;
+    margin-left: 3%;
+    box-sizing: border-box;
+    width: 30%;
+}
