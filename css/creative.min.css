@@ -61,5 +61,11 @@ header {
 }
 
 p {
-font-size: 14px;
+font-size: 18px;
+}
+
+.span {
+  width: 100%;
+  padding-left: 2%;
+  padding-right: 2%;
 }
