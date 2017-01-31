@@ -69,3 +69,9 @@ font-size: 18px;
   padding-left: 2%;
   padding-right: 2%;
 }
+
+hr {
+  border-width: 2px;
+  border-color: #FFDC00;
+  width: 100%;
+}
